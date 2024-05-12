@@ -1,0 +1,4 @@
+.env
+__pycache__/*.pyc
+stock_model/.env
+api_models/__pycache__/*.pyc
