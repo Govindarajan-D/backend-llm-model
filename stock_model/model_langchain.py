@@ -1,8 +1,3 @@
-"""
-The CosmicWorksAIAgent class encapsulates a LangChain 
-agent that can be used to answer questions about Cosmic Works
-products, customers, and sales.
-"""
 import os
 import json
 from typing import List
